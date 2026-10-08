@@ -1,0 +1,6 @@
+{
+  "name": "Anytime Fitness Vijay Nagar | Luxury Athletic Club",
+  "description": "Train stronger at Anytime Fitness Vijay Nagar, Jabalpur. 24/7 access, world-class equipment, elite personal trainers, and a high-performance fitness community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
